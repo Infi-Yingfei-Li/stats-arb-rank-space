@@ -16,3 +16,7 @@ This repository contains the code for our NeurIPS 2024 submission "Statistical A
 ## Notes
 - Data sources are proprietary (CRSP, Polygon.io) and not included.
 - Code structure and pseudocode are provided for reproducibility.
+
+## License
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+See the [LICENSE](LICENSE) file for details.
