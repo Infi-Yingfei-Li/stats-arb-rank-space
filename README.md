@@ -1,6 +1,6 @@
 # Statistical Arbitrage in Rank Space
 
-This repository contains the code for our NeurIPS 2024 submission "Statistical Arbitrage in Rank Space with Deep Neural Networks."
+This repository contains the code for our NeurIPS 2024 submission "Deep Statistical Arbitrage in Rank Space".
 
 ## Requirements
 - Python 3.10
