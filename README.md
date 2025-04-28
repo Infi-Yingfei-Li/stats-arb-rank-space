@@ -1,4 +1,4 @@
-# Statistical Arbitrage in Rank Space
+# Deep Statistical Arbitrage in Rank Space
 
 This repository contains the code for our NeurIPS 2025 submission "Deep Statistical Arbitrage in Rank Space".
 
